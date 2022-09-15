@@ -1,4 +1,3 @@
-/*
 input.onLogoEvent(TouchButtonEvent.LongPressed, function () {
     Tello.forward_flip()
     basic.showLeds(`
@@ -132,4 +131,3 @@ basic.forever(function () {
         basic.pause(500)
     }
 })
-*/

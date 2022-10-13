@@ -10,7 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/TaikiSugimoto/DroneTestRepo/tree/dev_main_ts_file** and import
 
-## Edit this project !
+## Edit this project ![Build status badge](https://github.com/TaikiSugimoto/DroneTestRepo/tree/dev_main_ts_file/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
